@@ -1,0 +1,290 @@
+body{
+    margin-left: 0px;
+ overflow: hidden;
+ overflow-y: scroll;
+   
+   
+}
+.top{
+    display: flex;
+    flex-direction: row; 
+}
+.one,.two,.three{
+    color: aliceblue;
+    margin: -37px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    margin-top: 75px;
+    margin-left: 70px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+}
+.image{  position: relative;
+    left: 567px;
+    top: -11px;
+     height: 200px;
+    width: 345px;
+  }
+  .contact{
+    color: aliceblue;
+    text-decoration: none;
+    position: relative;
+    left:807px;
+    top: -91px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+  }
+.first img{
+    width: 90%;
+    height: auto;
+    margin-left: 97px;
+    
+}
+.italy{
+    
+    margin-top: 170px;
+    position: relative;
+    left: 45%;
+    }
+.text{
+    position: relative;
+    left: 19%;
+    color: aliceblue;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+    font-weight: 700;
+    line-height:21px;
+    }
+
+.second{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+    
+.second img{
+    width: 1522px;
+    height: 75%;
+    margin-top: 96px;
+    margin-left: -10px;
+   
+}
+.for{
+    position: absolute;
+    top: 390px;
+    left: 31%;
+    font-size: 114px;
+    font-family:sans-serif;
+   
+}
+.dott{
+    position: absolute;
+    top: 200px;
+    left: 32%;
+    color: #919090;
+    font-size: 248px;
+}
+.whytext{
+   position: absolute;
+   top: 641px;
+   left: 467px;
+   font-size: 67px;
+}
+.midportion{
+    font-size: 41px;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.middle{
+    margin-left: 100px;
+    margin-top: 50px;
+
+}
+
+.textyear{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    position: relative;
+    top: -459px;
+    left: 572px;
+    line-height: 46px;
+
+}.fortheman{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+    position: relative;
+    top: -459px;
+    left: 572px;
+    line-height: 35px;
+}
+
+.textlast{
+    color: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    position: absolute;
+    top: 3581px;
+    left: 101px;
+    line-height: 35px;
+    text-transform: uppercase;
+
+}
+.car{
+    width: 444px;
+    height: auto;
+    position: absolute;
+    top: 3596px;
+    left: 996px;
+
+}
+.lasttext{ 
+    position: absolute;
+    top: 4345px;
+    left:203px;
+    color: aliceblue;
+
+}
+.denimlink{
+    color: aliceblue;
+    position: absolute;
+    top: 80px;
+    left: 427px;
+}
+.footter{
+    position: absolute;
+    top: 4713px;
+    left: 194px;
+    
+}
+.footter form{
+    width: 1092px;
+
+
+}
+
+form .form-control{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    gap: 9px;
+}
+
+.form-control input{
+     height: 44px;
+
+}
+
+.form .form-control{
+    width: 60px;
+}
+
+
+
+
+.form-control label{
+    color: aliceblue;
+    font-size: 19px;
+    
+}
+form .form-control-1{
+    display: inline;
+
+}
+.firstname{
+    position: absolute;
+    left: 22px;
+    bottom: 405px;
+    color: aliceblue;
+}
+.firstname1{
+    position: absolute;
+    left: 22px;
+    bottom: 353px;
+    width: 528px;
+    height: 43px;
+}
+.lastname{
+    position: absolute;
+    left: 570px;
+    bottom: 405px;
+    color: aliceblue;
+}
+.lastname1{
+    position: absolute;
+    left: 563px;
+    bottom: 353px;
+    width: 500px;
+    height: 43px;
+}
+.namerequre{
+    position: absolute;
+    bottom: 429px;
+    color: aliceblue;
+    font-size: 18px;
+}
+.button{
+    position: absolute;
+    top: 5027px;
+    left: 215px;
+    background-color: transparent;
+    width: 138px;
+    height: 55px;
+    color: aliceblue;
+    border-color: white;
+    font-family: serif;
+    font-size: larger;
+
+}
+.last-link{
+    position: absolute;
+    top: 5302px;
+    left: 500px;
+    display: flex;
+    flex-direction: row;
+}
+.link1,.link2,.link3{
+    margin: 22px;
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.copyright{
+    color: aliceblue;
+    position: absolute;
+    top:5360px;
+    left: 400px;
+    font-weight: 400;
+}
+.icons{
+    position: absolute;
+    top: 5260px;
+    left: 702px;
+    
+}
+.cookie{
+    font-size: 13px;
+    background-color: black;
+    color: aliceblue;
+    position: absolute;
+    top: 5410px;
+    left: 75px;
+    padding: 8px;
+}
+
