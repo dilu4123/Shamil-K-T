@@ -2,6 +2,7 @@ body{
     margin-left: 0px;
  overflow: hidden;
  overflow-y: scroll;
+overflow-x: hidden;
    
    
 }
